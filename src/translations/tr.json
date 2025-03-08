@@ -1,0 +1,83 @@
+{
+  "common": {
+    "getStarted": "Hemen Başla",
+    "learnMore": "Daha Fazla Bilgi",
+    "tryFree": "10 Dakika Ücretsiz Dene",
+    "close": "Kapat"
+  },
+  "header": {
+    "title": "Speak on the Line"
+  },
+  "hero": {
+    "title": "Telefonla Yapay Zeka Asistanıyla İngilizce Pratik Yap",
+    "subtitle": "İngilizce konuşma becerilerinizi istediğiniz zaman, istediğiniz yerde geliştirin. Sadece arayın ve konuşmaya başlayın!",
+    "callUs": "Bizi arayın",
+    "phoneNumber": "0850 840 50 41"
+  },
+  "features": {
+    "title": "Neden Speak on the Line ile Pratik Yapmalısınız?",
+    "availability": {
+      "title": "7/24 Erişim",
+      "description": "Programınıza uygun herhangi bir zamanda pratik yapın. Yapay zeka asistanımız her zaman konuşmaya hazır."
+    },
+    "conversations": {
+      "title": "Doğal Konuşmalar",
+      "description": "Yapay zekamız bağlamı anlar ve doğal cevaplar verir, gerçek dünya konuşma becerilerinizi geliştirmenize yardımcı olur."
+    },
+    "progress": {
+      "title": "İlerlemenizi Takip Edin",
+      "description": "İngilizce ifade etme konusunda kendinizi daha rahat hissettikçe her konuşmayla gelişin."
+    }
+  },
+  "howItWorks": {
+    "title": "Nasıl Çalışır",
+    "step1": {
+      "title": "Arama Yapın",
+      "description": "Yapay zeka asistanımıza bağlanmak için herhangi bir telefondan 0850 840 50 41 numarasını arayın."
+    },
+    "step2": {
+      "title": "Konuşmaya Başlayın",
+      "description": "Pratik yapmak istediğiniz herhangi bir konuda İngilizce olarak doğal bir şekilde konuşun."
+    },
+    "step3": {
+      "title": "Pratik Yapın ve Gelişin",
+      "description": "Konuşmanızın keyfini çıkarın ve her aramayla özgüveninizi artırın."
+    }
+  },
+  "trial": {
+    "title": "Bugün 10 Dakika Ücretsiz Deneyin!",
+    "description": "Ücretsiz 10 dakikalık bir konuşmayla başlayın. Kredi kartı gerekmez, sadece arayın ve pratik yapmaya başlayın.",
+    "comingSoon": "Yakında: Sürekli pratik için abonelik paketleri ve dakika paketleri!"
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "questions": {
+      "cost": {
+        "question": "Hizmet ne kadara mal oluyor?",
+        "answer": "Şu anda, her arayan için ücretsiz 10 dakikalık bir deneme sunuyoruz. Abonelik paketleri yakında mevcut olacak."
+      },
+      "topics": {
+        "question": "Hangi konularda konuşabilirim?",
+        "answer": "İstediğiniz neredeyse her konuda konuşabilirsiniz! Yapay zeka asistanımız günlük yaşam, hobiler, haberler, seyahat, teknoloji ve daha fazlası hakkında konuşabilir."
+      },
+      "grammar": {
+        "question": "Yapay zeka asistanı dilbilgimi düzeltiyor mu?",
+        "answer": "Yapay zekamız, İngilizcenizi geliştirmek için ince düzeltmeler ve öneriler sağlarken doğal konuşma akışını sürdürmeye odaklanır."
+      },
+      "international": {
+        "question": "Türkiye dışından arayabilir miyim?",
+        "answer": "Evet, numaramızı herhangi bir ülkeden arayabilirsiniz. Sağlayıcınızın standart uluslararası arama ücretleri geçerli olacaktır."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Telefonla İngilizce konuşma becerilerinizi geliştirin.",
+    "contact": "Bize ulaşın",
+    "email": "info@speakontheline.com",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "modal": {
+    "title": "Hemen Başlayın",
+    "description": "İngilizce konuşma becerilerinizi geliştirmeye hazır mısınız? Ücretsiz 10 dakikalık denemenize başlamak için numaramızı arayın."
+  }
+}

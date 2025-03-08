@@ -1,0 +1,83 @@
+{
+  "common": {
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "tryFree": "Try 10 Minutes Free",
+    "close": "Close"
+  },
+  "header": {
+    "title": "Speak on the Line"
+  },
+  "hero": {
+    "title": "Practice English with an AI Assistant by Phone",
+    "subtitle": "Improve your English speaking skills anytime, anywhere. Just make a call and start talking!",
+    "callUs": "Call us at",
+    "phoneNumber": "0850 840 50 41"
+  },
+  "features": {
+    "title": "Why Practice with Speak on the Line?",
+    "availability": {
+      "title": "24/7 Availability",
+      "description": "Practice at any time that suits your schedule. Our AI assistant is always ready to talk."
+    },
+    "conversations": {
+      "title": "Natural Conversations",
+      "description": "Our AI understands context and responds naturally, helping you build real-world conversation skills."
+    },
+    "progress": {
+      "title": "Track Your Progress",
+      "description": "Improve with each conversation as you grow more comfortable expressing yourself in English."
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": {
+      "title": "Make the Call",
+      "description": "Dial 0850 840 50 41 from any phone to connect with our AI assistant."
+    },
+    "step2": {
+      "title": "Start Talking",
+      "description": "Speak naturally in English about any topic you'd like to practice."
+    },
+    "step3": {
+      "title": "Practice & Improve",
+      "description": "Enjoy your conversation and build confidence with each call."
+    }
+  },
+  "trial": {
+    "title": "Try 10 Minutes Free Today!",
+    "description": "Get started with a free 10-minute conversation. No credit card required, just dial and start practicing.",
+    "comingSoon": "Coming soon: Subscription packages and minute bundles for continued practice!"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": {
+      "cost": {
+        "question": "How much does the service cost?",
+        "answer": "Currently, we offer a free 10-minute trial for every caller. Subscription packages will be available soon."
+      },
+      "topics": {
+        "question": "What topics can I talk about?",
+        "answer": "You can discuss almost any topic you want! Our AI assistant can talk about daily life, hobbies, news, travel, technology, and more."
+      },
+      "grammar": {
+        "question": "Does the AI assistant correct my grammar?",
+        "answer": "Our AI focuses on maintaining natural conversation flow while providing subtle corrections and suggestions to improve your English."
+      },
+      "international": {
+        "question": "Can I call from outside Turkey?",
+        "answer": "Yes, you can call our number from any country. Standard international calling rates from your provider will apply."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Improve your English speaking skills by phone.",
+    "contact": "Contact us",
+    "email": "info@speakontheline.com",
+    "rights": "All rights reserved."
+  },
+  "modal": {
+    "title": "Get Started",
+    "description": "Ready to improve your English speaking skills? Call our number to get started with your free 10-minute trial."
+  }
+}
